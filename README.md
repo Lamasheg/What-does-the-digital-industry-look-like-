@@ -59,6 +59,8 @@ I was interestested in exploring the Stack Overflow data from 2017 to get insigh
 
 5. The data can be used to predict Job Satisfaction.
 
+*Blog post on Medium can be found on: https://medium.com/@lama.alshegri/what-does-the-digital-industry-look-like-6442b82373c8?source=friends_link&sk=cbd47de000020e1f0266905de8c6d36d
+
 
 ## Acknowledgements<a name="licensing"></a>
 Credits go to udacity and Stack overflow for providing the opportunity to practice our skills with real life data!
